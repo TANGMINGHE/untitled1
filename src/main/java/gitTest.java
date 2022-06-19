@@ -4,5 +4,7 @@ public class gitTest {
         System.out.println("hello git2");
         System.out.println("ksldxcxxxxxxxxxxxxxxxxxxxd");
         System.out.println("cjkfjdkfcd");
+        System.out.println("klmfksjfksjfksfsf");
+        System.out.println("clskflskflskfs");
     }
 }
