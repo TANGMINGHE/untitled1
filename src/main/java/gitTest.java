@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("klmfksjfksjfksfsf");
         System.out.println("clskflskflskfs");
         System.out.println("pushtest");
+        System.out.println(我想拉去代码");
     }
 }
